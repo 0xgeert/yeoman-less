@@ -1,6 +1,6 @@
 
 #Yeoman 1.0 With Less instead of Sass/Compass
- - [Less instead Through Grunt-contrib-less](https://github.com/gruntjs/grunt-contrib-less)
+ - [Less through Grunt-contrib-less](https://github.com/gruntjs/grunt-contrib-less)
  - [With the regular Twitter Bootstrap](http://twitter.github.com/bootstrap/)
  - Todo: make a scaffold of this
 
