@@ -5,7 +5,7 @@
  - Todo: make a scaffold of this
 
  After cloning be sure to do: 
- - bower install boostrap
+ - bower install bootstrap
  - npm install && bower install
 
 Enjoy!
