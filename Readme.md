@@ -4,7 +4,7 @@
  - [With the regular Twitter Bootstrap](http://twitter.github.com/bootstrap/)
  - Todo: make a scaffold of this
 
- After cloning be sure to do: 
+After cloning be sure to do: 
  - bower install bootstrap
  - npm install && bower install
 
